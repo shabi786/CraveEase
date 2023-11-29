@@ -8,14 +8,4 @@ ReactJs, React-router-dom, Redux-toolkit, React-hook-form, TailwindCSS
 
 
 ## Demo
-![](file:///C:/Users/Shabi%20Abbas/Downloads/swiggy.gif)
-
-
-
-
-
-
-
-
-
-https://github.com/shabi786/CraveEase/blob/main/swiggy.gif
+![](https://github.com/shabi786/CraveEase/blob/main/swiggy.gif)
